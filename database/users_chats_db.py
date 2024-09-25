@@ -58,11 +58,11 @@ class Database:
         'fsub': None,
         'tutorial': TUTORIAL,
         'is_tutorial': IS_TUTORIAL,
-        'vj': None,
-        'techvj': None,
-        'tech_vj': None,
-        'vjtech': None,
-        'vj_tech': None
+        'CineDrama': None,
+        'Netflix_Dramas': None,
+        'CineBazaar': None,
+        'CineDramaBot': None,
+        'CineBazaarBot': None
     }
     
     def __init__(self, uri, database_name):
