@@ -114,7 +114,7 @@ SHORTLINK_API = environ.get('SHORTLINK_API', 'hRPS5vvZc0OGOEUQJMJzPiojoVK2')
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 PORT = environ.get("PORT", "8080")
 MSG_ALRT = environ.get('MSG_ALRT', 'Welcome To CineDrama My Dear Friends ❤️')
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", """</b>📂Fɪʟᴇɴᴀᴍᴇ: {file_name} \n\n⚙️ <b>Size: </b><code>{file_size}</code>🔥\n\nJᴏɪɴ Nᴏᴡ: [⚡ CɪɴᴇDʀᴀᴍᴀBᴏᴛ ⚡](https://t.me/CineDrama)</b>""")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", """</b>📂Fɪʟᴇɴᴀᴍᴇ: {file_name}</b> \n\n⚙️ <b>Size: </b><code>{file_size}</code>🔥</b>""")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
@@ -133,7 +133,7 @@ YEARS = ["1900", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998",
 
 
 # Online Stream and Download
-STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
+STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or False
 
 # If Stream Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 MULTI_CLIENT = False
