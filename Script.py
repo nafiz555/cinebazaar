@@ -187,7 +187,7 @@ Nᴀᴍᴇ - {}"""
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Vincenzo S01E10
+ᴇxᴀᴍᴘʟᴇ : Vincenzo S01 or Vincenzo S01E04
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
@@ -322,7 +322,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  </b>""" 
 
     PROGRESS_BAR = """\n
-╭━━━━❰ Tech VJ Renaming... ❱━➣
+╭━━━━❰CineDrama Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
