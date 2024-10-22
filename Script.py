@@ -111,7 +111,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/CineDrama>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/CineDrama>☢Nafiz☢</a></b>
   
  <b>✯ Join here : <a href=https://t.me/CineDrama>☢Join my updateds☢</a></b> 
   
