@@ -160,4 +160,4 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @King
+# Ask Doubt on telegram @Kingshshhshs
